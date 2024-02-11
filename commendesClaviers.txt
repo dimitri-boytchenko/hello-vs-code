@@ -1,0 +1,11 @@
+Ctrl+Shift+M 6    - Problemes
+F5                - Debugging
+CTRL+Chift + P    - Composition de clavier et boutons d'acces repide
+Ctrl + B          - Masquer le fenetre avec dossiers
+Ctrl + +          - agrandir
+CTRL + -          - diminuer
+Ctrl + 0          - restaure par default la taille 
+Ctrl +KZ          - ZEN regime
+Alt + Z           - transfer de ligne tres long
+Ctrl + ,          - parametres
+Alt + F12         - trouver une classe de css

@@ -1,0 +1,35 @@
+@import "_header";
+body{   
+    color: rgb(10, 35, 16);
+   }
+h2 {
+    color: rgb(70, 215, 8);
+}
+
+.menu {
+    &__list {
+        background-color: purple;
+    }
+    &__list-item {
+        color: white;
+    }
+    &__link {
+        background-color: #ccc;
+    }
+    &__link--active {
+        background-color: green;
+        color: white;
+    }
+}
+.block {
+    /* .block__ */
+    &__ {
+    }
+    /* .block__-- */
+    &__-- {
+    }
+}
+.coco {
+}
+
+

@@ -1,0 +1,30 @@
+header h1 {
+  height: 25px;
+}
+
+body {
+  color: rgb(10, 35, 16);
+}
+
+h2 {
+  color: rgb(70, 215, 8);
+}
+
+.menu__list {
+  background-color: purple;
+}
+.menu__list-item {
+  color: white;
+}
+.menu__link {
+  background-color: #ccc;
+}
+.menu__link--active {
+  background-color: green;
+  color: white;
+}
+
+.block {
+  /* .block__ */
+  /* .block__-- */
+}

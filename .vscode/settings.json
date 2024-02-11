@@ -1,0 +1,74 @@
+{
+  "workbench.colorTheme": "Space Ocean Kit Refined",
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 16,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "liveSassCompile.settings.generateMap":false,
+  "liveSassCompile.settings.formats": [
+
+   {
+          "format": "expanded",
+          "autoprefix": "last 5 versions",
+          "extensionName": ".css",
+          "savePath": "/css"
+      }
+  ],
+  "ecsstractor_port.brackets_newline_after": true,
+  "ecsstractor_port.add_comment": true,
+  "ecsstractor_port.empty_line_before_nested_selector": false,
+  "ecsstractor_port.bem_nesting": true,
+  "ecsstractor_port.comment_style": "css",
+  "editor.tabSize": 2,
+  "php.validate.executablePath": "c:/php/php.exe",
+  "phpserver.phpPath": "c:/php/php.exe",
+  "php.suggest.basic": true,
+  "editor.defaultFormatter": "formulahendry.auto-close-tag",
+  "emmet.includeLanguages": {
+      "php": "html"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "phpserver.browser": "chrome",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.fullReload": true,
+  "liveServer.settings.useWebExt": true,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "window.zoomLevel": 1,
+  "security.workspace.trust.startupPrompt": "never",
+  "security.workspace.trust.emptyWindow": false,
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.banner": "always",
+  "liveServer.settings.port": 5500,
+  "auto-close-tag.activationOnLanguage": [
+
+      "xml",
+      "php",
+      "blade",
+      "ejs",
+      "jinja",
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+      "plaintext",
+      "markdown",
+      "vue",
+      "liquid",
+      "erb",
+      "lang-cfml",
+      "cfml",
+      "HTML (EEx)",
+      "HTML (Eex)",
+      "plist"
+  ],
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "workbench.list.horizontalScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.view.alwaysShowHeaderActions": true,
+  "workbench.editor.autoLockGroups": {},
+  "workbench.startupEditor": "none",
+  "liveServer.settings.useLocalIp": true
+  
+}
